@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.form-div {
+    width: 20vw;
+    height: 50vh;
+    margin: 20vh auto;
+}
+
+.form-div label {
+    display: block;
+    margin: 5px auto;
+}
+.form-div input {
+    padding: 5px;
+}
+.register {
+   margin: 0 auto;
+}
+fieldset {
+    padding: 20px 30px;
+}
+#department {
+    width: 13vw;
+    padding:5px;
+}
+.info_container {
+    width: 45vw;
+    margin: 0 auto;
+}
